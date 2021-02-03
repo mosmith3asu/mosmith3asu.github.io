@@ -16,7 +16,7 @@ _insert introduction_
 ## Research Question
 How can a jumping biped robot be constructed to:
 * dissipate kinetic energy upon landing
-* passively achieve a stable standing position?\
+* passively achieve a stable standing position?
 
 [link to research question description](/researchquestion)
 
