@@ -3,10 +3,10 @@ title: Team 6: Bio-inspired Passive Power Attenuation Mechanism for Jumping Robo
 ---
 # Team 6: Bio-inspired Passive Power Attenuation Mechanism for Jumping Robot
 ## Team Members: 
-Cole Brauer, _insert contact_
-Fuchen Chen, _insert contact_
-Nathaniel Rossi, _insert contact_
-Mason Smith @ mosmith3@asu.edu
+Cole Brauer, _insert contact_\
+Fuchen Chen, _insert contact_\
+Nathaniel Rossi, _insert contact_\
+Mason Smith @ mosmith3@asu.edu\
 
 # Home
 
