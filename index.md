@@ -1,19 +1,23 @@
 ---
-title: Bio-inspired Passive Power Attenuation Mechanism for Jumping Robot
+title: Team 6: Bio-inspired Passive Power Attenuation Mechanism for Jumping Robot
 ---
-# Bio-inspired Passive Power Attenuation Mechanism for Jumping Robot
+# Team 6: Bio-inspired Passive Power Attenuation Mechanism for Jumping Robot
+## Team Members: 
+Cole Brauer, _insert contact_
+Fuchen Chen, _insert contact_
+Nathaniel Rossi, _insert contact_
+Mason Smith @ mosmith3@asu.edu
+
 # Home
 
 ## Introduction
-
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+_insert introduction_
 
 ## Research Question
 How can a jumping biped robot be constructed to:
 * dissipate kinetic energy upon landing
 * passively achieve a stable standing position?
+[link to research question description](/researchquestion)
 
 ## Background
 
@@ -29,8 +33,7 @@ How can a jumping biped robot be constructed to:
 
 ## Conclusions and Future Work
 
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
+_insert conclusions and future work_
 
 ## References
+[link to references](/references)
