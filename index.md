@@ -28,7 +28,7 @@ How can a jumping biped robot be constructed to:
 
 1. _TBD_
 2. _TBD_
-3. _TBD_\
+3. _TBD_
 
 [link to full results](/results)
 
