@@ -1,8 +1,7 @@
 ---
 title: Bio-inspired Passive Power Attenuation Mechanism for Jumping Robot
 ---
-# <center>Bio-inspired Passive Power Attenuation Mechanism for Jumping Robot</center>
-
+# Bio-inspired Passive Power Attenuation Mechanism for Jumping Robot
 # Home
 
 ## Team 6 Members: 
