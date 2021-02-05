@@ -24,7 +24,9 @@ Another dual-stiffness system found in nature is the human leg. In order to adap
 
 ## 2. Background (Novelty)
 To establish the novelty of this project, a literature review was conducted by searching for different combinations of classes of robotic systems and research goals. The primary keywords used are listed in Table 1.
+
 #### Table 1: Literature review keywords
+
 | Classes of System | Classes of Research Goals |
 |---|---|
 | laminate robot | drop test |
