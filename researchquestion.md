@@ -28,13 +28,13 @@ To establish the novelty of this project, a literature review was conducted by s
 #### Table 1: Literature review keywords
 
 | Classes of System | Classes of Research Goals |
-|---|---|
-| laminate robot | drop test |
-| biped robot | landing control |
-| one legged robot | shock absorption |
-| jumping robot | impact absorption |
-| hopping robot | impact attenuation |
-| compliant legs |  |
+|-------------------|---------------------------|
+| laminate robot    | drop test                 |
+| biped robot       | landing control           |
+| one legged robot  | shock absorption          |
+| jumping robot     | impact absorption         |
+| hopping robot     | impact attenuation        |
+| compliant legs    |                           |
 
 Previous work has explored the use of jumping to allow small robots to traverse large obstacles [4]. This work was motivated by a need for small robots that can be used in extreme environments for Earth and space exploration. Jumping is presented as a locomotion strategy that can be added to wheeled robots and that is more robust than a complete walking robot. In the prototype systems, the impact forces from landing are addressed by the use of robust materials and structure. The landing orientation of the system is addressed by the addition of actuators that allow the robot to self-right. While this system is effective, it cannot maintain a desired orientation during landing, and it requires metal frame components that make it relatively heavy for its size (3 lbs, 6 x 6 x 6 in3) since the entire structure must absorb the landing impact.
 
