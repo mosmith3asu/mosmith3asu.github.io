@@ -20,7 +20,7 @@ How can a jumping biped robot be constructed to:
 
 [link to full research question section](/researchquestion)
 
-## Background
+## Background and Biomechanics
 
 [link to background section](/background)
 
