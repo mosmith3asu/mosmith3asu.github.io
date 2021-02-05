@@ -5,7 +5,6 @@ title: Research Question
 [Return Home](/index)
 
 # Research Question
-_insert resarch question_
 
 ## Introduction
 What is your research question?
