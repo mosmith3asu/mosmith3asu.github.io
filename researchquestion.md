@@ -4,11 +4,11 @@ title: Research Question
 # Bio-inspired Passive Power Attenuation Mechanism for Jumping Robot
 [Return Home](/index)
 
+---
+
 # Research Question
 
 ## Introduction
-What is your research question?
-
 How can a jumping biped robot be constructed to dissipate kinetic energy upon landing and passively achieve a stable standing position?
 
 ## 1. Approach (Tractability)

@@ -4,6 +4,8 @@ title: Background
 # Bio-inspired Passive Power Attenuation Mechanism for Jumping Robot
 [Return Home](/index)
 
+---
+
 # Biomechanics Background and Initial Specifications
 
 ## 1. Candidate Organism
@@ -86,23 +88,23 @@ Figure 1 illustrates the pose of a kangaroo rat throughout its hopping gait. Thi
 
 ![hopping gait](https://raw.githubusercontent.com/mosmith3asu/mosmith3asu.github.io/main/img/biomechanics-fig1.png)
 
-##### Fig. 1. Poses in two of the hopping gaits used by a kangaroo rat [2]
+#### Fig. 1. Poses in two of the hopping gaits used by a kangaroo rat [2]
 
 Figures 2 and 3 show the structure of the bones, muscles, and tendons in a kangaroo rat’s leg. The geometry shown in these figures informed the development of the kinematic model discussed in Section 6.
 
 ![bone structure](https://raw.githubusercontent.com/mosmith3asu/mosmith3asu.github.io/main/img/biomechanics-fig2.png)
 
-##### Fig. 2. Diagram of the leg bones, muscles, and tendons [4]
+#### Fig. 2. Diagram of the leg bones, muscles, and tendons [4]
 
 ![leg joints](https://raw.githubusercontent.com/mosmith3asu/mosmith3asu.github.io/main/img/biomechanics-fig3.png)
 
-##### Fig. 3. Diagram of the leg joint angles and muscles [5]
+#### Fig. 3. Diagram of the leg joint angles and muscles [5]
 
 Figure 4 provides information about the forces present in the leg and the positions of the leg joints throughout a hopping gait. This information informed the creation of the specifications table in Section 3, and will inform the tuning of the mechanism geometry.
 
 ![force graphs](https://raw.githubusercontent.com/mosmith3asu/mosmith3asu.github.io/main/img/biomechanics-fig4.png)
 
-##### Fig. 4. Ground reaction forces, joint angles, and joint moments during different stages of jumping [1, 5]
+#### Fig. 4. Ground reaction forces, joint angles, and joint moments during different stages of jumping [1, 5]
 
 ## 6. System Model
 
@@ -110,12 +112,12 @@ Based on the length and mass measurements provided in [4], the following model w
 
 ![leg linkage dimensions](https://raw.githubusercontent.com/mosmith3asu/mosmith3asu.github.io/main/img/biomechanics-fig5.png)
 
-##### Fig. 5. dimensions of model leg, all dimensions in mm.
+#### Fig. 5. dimensions of model leg, all dimensions in mm.
 
 
 ![range of motion](https://raw.githubusercontent.com/mosmith3asu/mosmith3asu.github.io/main/img/biomechanics-fig6.png)
 
-##### Fig. 6. Range of motion for one leg
+#### Fig. 6. Range of motion for one leg
 
 The body, pelvis, femur, tibia, midfoot, and toes are all modeled as rigid bodies. An additional linkage was added connecting the back of the midfoot to the bottom of the pelvis to create a 5-bar linkage with a range of motion that would normally be created by the muscles and tendons. The mean mass of a kangaroo rat is about 105.86gm (grams). The femur is 8.28gm, tibia 4.58gm, metatarsals 0.95gm, and toes 0.56gm, which are individually less than 1/10 of the total mass, meaning they can be approximated as massless. [4] The plan is to use materials that closely follow the actual mass of each rigid body. The model will not be powered by active actuators, instead, passive elastic laminate materials will be used to dampen the fall of the model. In figure 7, the red points represent the planned locations of torsional springs, though the exact locations are subject to change based on test results.
 
@@ -140,7 +142,7 @@ The planned laminate material is based on research done by Stefano Mintchev et a
 
 ![laminate spring](https://raw.githubusercontent.com/mosmith3asu/mosmith3asu.github.io/main/img/biomechanics-fig8.png)
 
-##### Figure 8: Torque output of laminate spring [14]
+#### Figure 8: Torque output of laminate spring [14]
 
 Based on the study’s particular stretch of the silicone, the torque created by the material is about 4N upon first being rotated. The torque reaches a maximum of 6N at about 90°. These exact torque outputs will be adjusted to suit our application by finding the ideal stretch to the silicone layer. The exact torque output for particular stretch proportions will need to be determined experimentally. 
 

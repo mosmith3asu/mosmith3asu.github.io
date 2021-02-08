@@ -4,7 +4,9 @@ title: References
 # Bio-inspired Passive Power Attenuation Mechanism for Jumping Robot
 [Return Home](/index)
 
-## Research Question
+---
+
+### Research Question
 
 Mintchev, S., Shintake, J., & Floreano, D. (2018). Bioinspired dual-stiffness origami. Science Robotics, 3(20), eaau0275. https://doi.org/10.1126/scirobotics.aau0275
 
@@ -36,7 +38,7 @@ S. Feng, E. Whitman, X. Xinjilefu and C. G. Atkeson, "Optimization based full bo
 
 Radford, N.A., Strawser, P., Hambuchen, K., Mehling, J.S., Verdeyen, W.K., Donnan, A.S., Holley, J., Sanchez, J., Nguyen, V., Bridgwater, L., Berka, R., Ambrose, R., Myles Markee, M., Fraser‐Chanpong, N.J., McQuin, C., Yamokoski, J.D., Hart, S., Guo, R., Parsons, A., Wightman, B., Dinh, P., Ames, B., Blakely, C., Edmondson, C., Sommers, B., Rea, R., Tobler, C., Bibby, H., Howard, B., Niu, L., Lee, A., Conover, M., Truong, L., Reed, R., Chesney, D., Platt, R., Jr, Johnson, G., Fok, C.‐L., Paine, N., Sentis, L., Cousineau, E., Sinnet, R., Lack, J., Powell, M., Morris, B., Ames, A. and Akinyode, J. (2015), Valkyrie: NASA's First Bipedal Humanoid Robot. J. Field Robotics, 32: 397-419. https://doi.org/10.1002/rob.21560
 
-## Background and Biomechanics
+### Background and Biomechanics
 
 M. J. Schwaner, D. C. Lin, and C. P. McGowan, “Jumping mechanics of desert kangaroo rats,” Journal of Experimental Biology, vol. 221, no. 22, 2018, doi: 10.1242/jeb.186700.
 
