@@ -64,5 +64,4 @@ C. Hong, D. Tang, Q. Quan, Z. Cao, and Z. Deng, “A combined series-elastic act
 
 S. H. Hyon and T. Mita, “Development of a biologically inspired hopping robot - ‘Kenken,’” Proc. - IEEE Int. Conf. Robot. Autom., vol. 4, no. May, pp. 3984–3991, 2002, doi: 10.1109/robot.2002.1014356.
 
-[14]
 Mintchev, S., Shintake, J., & Floreano, D. (2018). Bioinspired dual-stiffness origami. Science Robotics, 3(20), eaau0275. https://doi.org/10.1126/scirobotics.aau0275

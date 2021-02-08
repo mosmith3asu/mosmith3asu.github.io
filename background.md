@@ -53,7 +53,7 @@ In [13], a bio-inspired robotic platform was used to analyze running and hopping
 
 Lots of useful data is provided in the literature. Only more general data is listed in the table because the remaining ones are detailed and hard to summarize. For example, [4] contains body segment and individual muscle properties of the kangaroo rat hindlimb. [3] has the bone stress for the tibia and femur. It also has the peak ankle extensor muscles stress for hopping and jumping.
 
-### Table 3: Reviewed Biological Parameters
+#### Table 3: Reviewed Biological Parameters
 
 |Parameter|Units|Value Range|Reference|
 |-|-|-|-|
@@ -92,7 +92,7 @@ Figures 2 and 3 show the structure of the bones, muscles, and tendons in a kanga
 
 ![bone structure](https://raw.githubusercontent.com/mosmith3asu/mosmith3asu.github.io/main/img/biomechanics-fig2.png)
 
-##### Figure 2: Diagram of the leg bones, muscles, and tendons [4]
+##### Fig. 2. Diagram of the leg bones, muscles, and tendons [4]
 
 ![leg joints](https://raw.githubusercontent.com/mosmith3asu/mosmith3asu.github.io/main/img/biomechanics-fig3.png)
 
@@ -119,7 +119,10 @@ Based on the length and mass measurements provided in [4], the following model w
 
 The body, pelvis, femur, tibia, midfoot, and toes are all modeled as rigid bodies. An additional linkage was added connecting the back of the midfoot to the bottom of the pelvis to create a 5-bar linkage with a range of motion that would normally be created by the muscles and tendons. The mean mass of a kangaroo rat is about 105.86gm (grams). The femur is 8.28gm, tibia 4.58gm, metatarsals 0.95gm, and toes 0.56gm, which are individually less than 1/10 of the total mass, meaning they can be approximated as massless. [4] The plan is to use materials that closely follow the actual mass of each rigid body. The model will not be powered by active actuators, instead, passive elastic laminate materials will be used to dampen the fall of the model. In figure 7, the red points represent the planned locations of torsional springs, though the exact locations are subject to change based on test results.
 
-Fig. 7. torsional spring locations from laminate material
+![spring locations](https://raw.githubusercontent.com/mosmith3asu/mosmith3asu.github.io/main/img/biomechanics-fig7.png)
+
+#### Fig. 7. torsional spring locations from laminate material
+
 Between the pelvis-femur, tibia-midfoot, and midfoot-toe connections are laminate material connections that act as torsional springs to absorb the impact as the model falls to the ground.
 
 ## 7. Discussion
