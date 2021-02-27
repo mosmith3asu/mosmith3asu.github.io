@@ -60,16 +60,16 @@ Lots of useful data is provided in the literature. Only more general data is lis
 |Parameter|Units|Value Range|Reference|
 |-|-|-|-|
 |Total mass|kg|0.072-0.120|[1], [5]|
-|Takeoff/Touchdown velocity|m/s|0.9-3.1|[5]|
 |Hopping peak ground force|N|2.5|[5]|
 |Hopping positive work|J|0.075|[5]|
 |Jumping height|m|0.1-0.4|[1]|
 |Jumping peak ground force|N|3-5|[1]|
+|Jumping power|W|1-4.3|[1]|
 |Jumping total joint work|J|0.1-0.3|[1]|
 
 ## 4. Calculated Specifications
 
-Using the data presented in Section 3, several additional values can be found relating to requirements for landing. The total energy for a single jump can be calculated based on the mass and jump height. By making the assumption that the jumping peak ground force will act primarily in the vertical direction, the acceleration and power of a vertical jump can be found. Finally, the approximate time spent in contact with the ground at the beginning of a jump can be calculated. These calculated parameters are listed in Table 4.
+Using the data presented in Section 3, several additional values can be found relating to requirements for landing. The total energy for a single jump can be calculated based on the mass and jump height. By making the assumption that the jumping peak ground force will act primarily in the vertical direction, the acceleration of a vertical jump can be found. Finally, the approximate time spent in contact with the ground at the beginning of a jump can be calculated. These calculated parameters are listed in Table 4.
 
 #### Table 4: Calculated Parameters
 
@@ -77,8 +77,8 @@ Using the data presented in Section 3, several additional values can be found re
 |-|-|-|-|
 |Total jump energy|J|0.071-0.47|Total mass x Jumping height x g|
 |Jumping acceleration|m/s^2|41.67|Jumping peak ground force / Total mass|
-|Jumping power usage|W|2.7-15.5|Jumping peak ground force x Takeoff velocity|
-|Jumping takeoff time|s|0.022-0.074|Takeoff velocity / Jumping acceleration|
+|Jumping takeoff velocity|m/s|1.2-3|Jumping power / Jumping peak ground force|
+|Jumping takeoff time|s|0.02-0.3|Jumping total joint work / Jumping power|
 
 This information provides an estimate of the amount of energy that the constructed system will need to dissipate upon landing. It also would inform the selection of a motor if the jumping motion was actuated.
 
@@ -144,7 +144,7 @@ The planned laminate material is based on research done by Stefano Mintchev et a
 
 #### Figure 8: Torque output of laminate spring [14]
 
-Based on the study’s particular stretch of the silicone, the torque created by the material is about 4N upon first being rotated. The torque reaches a maximum of 6N at about 90°. These exact torque outputs will be adjusted to suit our application by finding the ideal stretch to the silicone layer. The exact torque output for particular stretch proportions will need to be determined experimentally. 
+Based on the study’s particular stretch of the silicone, the torque created by the material is about 4N upon first being rotated. The torque reaches a maximum of 6N at about 90°. These exact torque outputs will be adjusted to suit our application by finding the ideal stretch to the silicone layer. The exact torque output for particular stretch proportions will need to be determined experimentally.
 
 ## 8. References
 
