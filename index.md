@@ -41,12 +41,13 @@ A kinematic model is developed based on the hindlimb of a kangaroo rat. Force/to
 
 ## Dynamics I
 
+Using the model the team developed, inertias are added to the joints, and forces are applied to the system.
 
 ## Presentation I
 
-Here is a link to a recording of our team's first presentation.
+Recording of our team's first presentation.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hoA4KZbpxvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hoA4KZbpxvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Results
 
