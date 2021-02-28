@@ -39,6 +39,15 @@ A kinematic model is developed based on the hindlimb of a kangaroo rat. Force/to
 
 [link to full system kinematics section](/kinematics)
 
+## Dynamics I
+
+
+## Presentation I
+
+Here is a link to a recording of our team's first presentation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hoA4KZbpxvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Results
 
 1. _TBD_
