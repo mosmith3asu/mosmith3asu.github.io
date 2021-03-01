@@ -40,6 +40,8 @@ A kinematic model is developed based on the hindlimb of a kangaroo rat. Force/to
 
 ![kinimatic diagram](https://drive.google.com/uc?export=download&id=1DyhHoBWtt7TFoG5JgTYlYXjFT2ExoG9x = 250x140)
 
+![kinimatic diagram](https://drive.google.com/uc?export=download&id=1DyhHoBWtt7TFoG5JgTYlYXjFT2ExoG9x | width=140)
+
 [link to full system kinematics section](/kinematics)
 
 ## Dynamics I
