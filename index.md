@@ -30,6 +30,8 @@ Specifically, this research pertains to methods for achieving efficient power at
 
 The design of the project hardware is inspired by the locomotion of the kangaroo rat. Kangaroo rats’ hind limbs allow them to perform repetitive, high-speed jumping and landing motions during their gait cycle. They also are of a similar scale to the target system size.
 
+![kangaroo rat](https://www.futurity.org/wp/wp-content/uploads/2017/09/jerboa-jumping.gif)
+
 [link to full background section](/background)
 
 ## Kinematics
