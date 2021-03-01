@@ -50,6 +50,8 @@ A dynamic model is developed to simulate the system interacting with ground forc
 
 ![dynamics diagram](/img/dynamicsi_motion.png)
 
+![dynamics diagram](img/dynamicsi_motion.png)
+
 [link to full system dynamics section](/dynamicsi)
 
 ## Presentation I
