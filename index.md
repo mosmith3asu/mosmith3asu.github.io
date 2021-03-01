@@ -16,14 +16,13 @@ Mason Smith @ mosmith3@asu.edu
 
 ## Introduction
 
-_insert introduction_
+In recent years, bipedal robots have been becoming a more feasible means for achieving locomotion. Consequently, much research has been dedicated to investigating how to make these robots' gait as robust as possible. The interest in this field as a whole relates to the distinct advantage of a bipedal robot to transverse dynamic terrain that would otherwise be impossible for a wheeled system to overcome. However, this context implies that dynamic movements like jumping and hopping may be required or even be deemed as the optimal mode of locomotion by a robot. To this end, this research is dedicated to improving conditions for a stable landing position for robots that are subject to this requirement. Furthermore, bio-inspiration is a fundamental principle that is repeatedly referenced during the development of this system since many animals, like the kangaroo rat, have already developed mechanisms to address this problem.
 
 ## Research Question
 
-How can a jumping biped robot be constructed to:
+How can a jumping biped robot be constructed to dissipate kinetic energy upon landing and passively achieve a stable standing position? 
 
-* dissipate kinetic energy upon landing?
-* passively achieve a stable standing position?
+Specifically, this research pertains to methods for achieving efficient power attenuation which is in contrast to the common focus on power conservation or recovery found in the literature.  Additionally, the system will use laminate manufacturing methods to create a passive joint that achieves the desired system behavior.
 
 [link to full research question section](/researchquestion)
 
