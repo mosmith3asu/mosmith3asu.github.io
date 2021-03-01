@@ -38,9 +38,7 @@ The design of the project hardware is inspired by the locomotion of the kangaroo
 
 A kinematic model is developed based on the hindlimb of a kangaroo rat. Force/torque and velocity are estimated based on the Jacobian and data from biomechanics.
 
-![kinimatic diagram](https://drive.google.com/uc?export=download&id=1DyhHoBWtt7TFoG5JgTYlYXjFT2ExoG9x = 250x140)
-
-![kinimatic diagram](https://drive.google.com/uc?export=download&id=1DyhHoBWtt7TFoG5JgTYlYXjFT2ExoG9x | width=140)
+![kinimatic diagram](/img/leg-diagram-v3.jpg)
 
 [link to full system kinematics section](/kinematics)
 
