@@ -38,14 +38,14 @@ The design of the project hardware is inspired by the locomotion of the kangaroo
 
 A kinematic model is developed based on the hindlimb of a kangaroo rat. Force/torque and velocity are estimated based on the Jacobian and data from biomechanics.
 
-![kinimatic diagram](https://drive.google.com/uc?export=download&id=1371ht69Wqoiih9L6xaQRC4UUc6G840On = 250x)
+![kinimatic diagram](https://drive.google.com/uc?export=download&id=1DyhHoBWtt7TFoG5JgTYlYXjFT2ExoG9x)
 
 [link to full system kinematics section](/kinematics)
 
 ## Dynamics I
 
 A dynamic model is developed to simulate the system interacting with ground forces.
-![dynamics diagram](https://drive.google.com/uc?export=download&id=1tZ3wi1GvXs-Dcn1_u7gmYqZ2iavJVodJg = 250x)
+![dynamics diagram](https://drive.google.com/uc?export=download&id=1tZ3wi1GvXs-Dcn1_u7gmYqZ2iavJVodJg)
 
 [link to full system dynamics section](/dynamicsi)
 
