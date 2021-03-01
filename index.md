@@ -45,6 +45,7 @@ A kinematic model is developed based on the hindlimb of a kangaroo rat. Force/to
 ## Dynamics I
 
 A dynamic model is developed to simulate the system interacting with ground forces.
+![dynamics diagram](https://mosmith3asu.github.io/img/dynamicsi_motion.png = 250x)
 
 [link to full system dynamics section](/dynamicsi)
 
