@@ -58,7 +58,9 @@ Recording of our team's first presentation.
 
 ## System Dynamics II
 
-A dynamic model is updated to consider more factors.
+A dynamic model is updated to consider material parameterization.
+
+[link to full system dynamics II section](https://nbviewer.jupyter.org/url/mosmith3asu.github.io/dyncamicsii.ipynb)
 
 ## Presentation II
 
