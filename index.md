@@ -64,7 +64,7 @@ A dynamic model is updated to consider more factors.
 
 Recording of our team's second presentation.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/watch?v=EKJCo6YdBzc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/EKJCo6YdBzc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Results
 
