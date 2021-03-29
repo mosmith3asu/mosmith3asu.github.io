@@ -56,6 +56,16 @@ Recording of our team's first presentation.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hoA4KZbpxvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## System Dynamics II
+
+A dynamic model is updated to consider more factors.
+
+## Presentation II
+
+Recording of our team's second presentation.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/watch?v=EKJCo6YdBzc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Results
 
 1. _TBD_
