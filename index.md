@@ -58,6 +58,8 @@ Recording of our team's first presentation.
 
 ## System Dynamics II
 
+![dynamics ii diagram](/img/output_12_1.png)
+
 A dynamic model is updated to consider material parameterization.
 
 [link to full system dynamics II section](https://nbviewer.jupyter.org/url/mosmith3asu.github.io/dyncamicsii.ipynb)
