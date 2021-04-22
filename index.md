@@ -69,6 +69,13 @@ The dynamic model is updated to consider material parameterization.
 Recording of our team's second presentation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EKJCo6YdBzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Design Optimization
+
+![optimization output](/img/optimization.png)
+
+[link to full design optimization section](https://nbviewer.jupyter.org/url/mosmith3asu.github.io/design_optimization.ipynb)
+
 ## Results
 
 1. _TBD_
