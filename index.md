@@ -62,7 +62,7 @@ Recording of our team's first presentation.
 
 The dynamic model is updated to consider material parameterization.
 
-[link to full system dynamics II section](https://nbviewer.jupyter.org/url/mosmith3asu.github.io/dyncamicsii.ipynb)
+[link to full system dynamics II section](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/dyncamicsii.ipynb)
 
 ## Presentation II
 
@@ -74,7 +74,7 @@ Recording of our team's second presentation.
 
 ![optimization output](/img/optimization.png)
 
-[link to full design optimization section](https://nbviewer.jupyter.org/url/mosmith3asu.github.io/design_optimization.ipynb)
+[link to full design optimization section](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/design_optimization.ipynb)
 
 ## Results
 
