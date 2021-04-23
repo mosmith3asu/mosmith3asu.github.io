@@ -60,6 +60,11 @@ Recording of our team's first presentation.
 
 Each member was delegated tasks in preparation for dynamics II, each member’s contribution is linked below.
 
+Cole Brauer
+Fuchen Chen
+Nathaniel Rossi - Physical Prototype
+Mason Smith
+
 ## System Dynamics II
 
 ![dynamics ii diagram](/img/output_12_1.png)
