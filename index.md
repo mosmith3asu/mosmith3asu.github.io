@@ -78,24 +78,17 @@ Recording of our team's second presentation.
 
 ## Manufacturing
 The laminate robot manufacturing process is planned using SolidWorks and Python foldable_robotics package. All the cut files are generated.
+
 ![optimization output](img/manufacturing/solidworkswithpayload.JPG)
 
 [link to full manufacturing section](/manufacturing)
 
-## Results
+## Experimental Validation
+Experiments are performed to validate the simulation.
 
-1. _TBD_
-2. _TBD_
-3. _TBD_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sDl8Qv2XFEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[link to full results section](/results)
-
-## Conclusions and Future Work
-
-_insert summary conclusions and future work_
-
-[link to full conclusion and future work section](/conclusion)
-
+[link to full experimental validation	 section](/experiment)
 
 ## References
 [link to references](/references)
