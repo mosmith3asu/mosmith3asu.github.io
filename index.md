@@ -83,7 +83,7 @@ Recording of our team's second presentation.
 
 ![optimization output](/img/optimization.png)
 
-[link to full design optimization section](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/design_optimization.ipynb)
+[link to full design optimization section](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/code/design_optimization.ipynb)
 
 ## Manufacturing
 The laminate robot manufacturing process is planned using SolidWorks and Python foldable_robotics package. All the cut files are generated.
