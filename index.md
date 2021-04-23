@@ -62,7 +62,7 @@ Each member was delegated tasks in preparation for dynamics II, each member’s 
 
 Cole Brauer
 Fuchen Chen
-Nathaniel Rossi - Physical Prototype
+[Nathaniel Rossi - Physical Prototype](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/EGR557_Dynamics_II_Prep_Nathaniel_Rossi.ipynb)
 Mason Smith
 
 ## System Dynamics II
@@ -71,7 +71,7 @@ Mason Smith
 
 The dynamic model is updated to consider material parameterization.
 
-[link to full system dynamics II section](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/dyncamicsii.ipynb)
+[link to full system dynamics II section](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/code/dyncamicsii.ipynb)
 
 ## Presentation II
 
