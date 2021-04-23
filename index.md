@@ -60,9 +60,9 @@ Recording of our team's first presentation.
 
 Each member was delegated tasks in preparation for dynamics II, each member’s contribution is linked below.
 
-Cole Brauer
-Fuchen Chen
-[Nathaniel Rossi - Physical Prototype](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/EGR557_Dynamics_II_Prep_Nathaniel_Rossi.ipynb)
+Cole Brauer\
+Fuchen Chen\
+[Nathaniel Rossi - Physical Prototype](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/EGR557_Dynamics_II_Prep_Nathaniel_Rossi.ipynb)\
 Mason Smith
 
 ## System Dynamics II
