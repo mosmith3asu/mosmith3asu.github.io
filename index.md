@@ -20,7 +20,7 @@ In recent years, bipedal robots have been becoming a more feasible means for ach
 
 ## Research Question
 
-How can a jumping biped robot be constructed to dissipate kinetic energy upon landing and passively achieve a stable standing position? 
+How can a jumping biped robot be constructed to dissipate kinetic energy upon landing and passively achieve a stable standing position?
 
 Specifically, this research pertains to methods for achieving efficient power attenuation which is in contrast to the common focus on power conservation or recovery found in the literature.  Additionally, the system will use laminate manufacturing methods to create a passive joint that achieves the desired system behavior.
 
@@ -75,6 +75,12 @@ Recording of our team's second presentation.
 ![optimization output](/img/optimization.png)
 
 [link to full design optimization section](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/design_optimization.ipynb)
+
+## Manufacturing
+The laminate robot manufacturing process is planned using SolidWorks and Python foldable_robotics package. All the cut files are generated.
+![optimization output](img/manufacturing/solidworkswithpayload.JPG)
+
+[link to full manufacturing section](/manufacturing)
 
 ## Results
 
