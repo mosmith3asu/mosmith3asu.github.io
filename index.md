@@ -56,6 +56,10 @@ Recording of our team's first presentation.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hoA4KZbpxvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Dynamics II Prep (Parameter ID)
+
+Each member was delegated tasks in preparation for dynamics II, each member’s contribution is linked below.
+
 ## System Dynamics II
 
 ![dynamics ii diagram](/img/output_12_1.png)
@@ -91,7 +95,7 @@ Experiments are performed to validate the simulation.
 [link to full experimental validation	section](/experiment)
 
 ## Presentation III
-Recording of our team's third presentation.
+Recording of our team's third and final presentation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tfui9wJ9ZXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
