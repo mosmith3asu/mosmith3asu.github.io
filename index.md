@@ -63,7 +63,7 @@ Each member was delegated tasks in preparation for dynamics II, each member’s 
 Cole Brauer\
 [Fuchen Chen - Refined Dynamics](/dynamicsiiprepfuchen)\
 [Nathaniel Rossi - Physical Prototype](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/EGR557_Dynamics_II_Prep_Nathaniel_Rossi.ipynb)\
-Mason Smith
+[Mason Smith - Experimental Testing Setup](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/DynamicsPrep_Mason.ipynb)\
 
 ## System Dynamics II
 
