@@ -95,8 +95,8 @@ Recording of our team's third presentation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tfui9wJ9ZXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Code
-All code related to this projects can be accessed [here](https://github.com/mosmith3asu/mosmith3asu.github.io)
+## Files
+All the CAD models, designs, data, and code related to this projects can be accessed [here](https://github.com/mosmith3asu/mosmith3asu.github.io)
 
 ## References
 [link to references](/references)
