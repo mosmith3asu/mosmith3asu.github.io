@@ -60,7 +60,7 @@ Recording of our team's first presentation.
 
 Each member was delegated tasks in preparation for dynamics II, each member’s contribution is linked below.
 
-Cole Brauer(https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/dynamics-2-prep-cole.ipynb)\
+[Cole Brauer](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/dynamics-2-prep-cole.ipynb)\
 [Fuchen Chen - Refined Dynamics](/dynamicsiiprepfuchen)\
 [Nathaniel Rossi - Physical Prototype](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/EGR557_Dynamics_II_Prep_Nathaniel_Rossi.ipynb)\
 [Mason Smith - Experimental Testing Setup](https://nbviewer.jupyter.org/urls/mosmith3asu.github.io/DynamicsPrep_Mason.ipynb)
