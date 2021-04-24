@@ -107,7 +107,7 @@ Recording of our team's third and final presentation.
 ## Files
 All the CAD models, designs, data, and code related to this projects can be accessed [here](https://github.com/mosmith3asu/mosmith3asu.github.io)
 
-![optimization output](img/manufacturing/mediagallery.png)
+![optimization output](img/mediagallery.png)
 
 ## References
 [link to references](/references)
